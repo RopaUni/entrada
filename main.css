@@ -1,0 +1,10 @@
+.car{
+    width: 50%;
+}
+
+a img{
+    width: 50px;
+}
+a img:hover{
+    width: 60px;
+}
